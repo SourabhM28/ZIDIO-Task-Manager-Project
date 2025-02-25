@@ -97,8 +97,8 @@ Contributions to the ZIDIO Task Management System are welcome. Please follow the
 
 Your Name - sourabhmisal3821@gmail.com
 
-Project Link: [https://github.com/SourabhM28/zidio-task-manager]
+Project Link: [https://github.com/SourabhM28/ZIDIO-Task-Manager-Project/]
 
-(https://github.com/yourusername/zidio-task-management)
+(https://github.com/SourabhM28/ZIDIO-Task-Manager-Project/)
 
 
