@@ -93,14 +93,12 @@ Contributions to the ZIDIO Task Management System are welcome. Please follow the
 4. Push to the branch (\`git push origin feature/AmazingFeature\`)
 5. Open a Pull Request
 
-## License
-
-Distributed under the MIT License. See \`LICENSE\` for more information.
-
 ## Contact
 
-Your Name - your.email@example.com
+Your Name - sourabhmisal3821@gmail.com
 
-Project Link: [https://github.com/yourusername/zidio-task-management](https://github.com/yourusername/zidio-task-management)
+Project Link: [https://github.com/SourabhM28/zidio-task-manager]
+
+(https://github.com/yourusername/zidio-task-management)
 
 
